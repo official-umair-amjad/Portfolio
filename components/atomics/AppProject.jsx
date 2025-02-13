@@ -3,7 +3,7 @@ import Image from "next/image";
 import ProjectDialog from "./ProjectDialog"; // Import the slide dialog component
 
 const AppProject = ({ project }) => {
-  console.log(project);
+
   const [isDialogOpen, setIsDialogOpen] = useState(false);
 
   const handleProjectClick = () => {
