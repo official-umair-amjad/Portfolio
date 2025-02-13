@@ -1,4 +1,5 @@
 import { useEffect } from 'react';
+import { Analytics } from '@vercel/analytics/react';
 import '../styles/globals.css';
 
 const MyApp = ({ Component, pageProps }) => {
