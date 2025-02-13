@@ -8,6 +8,7 @@ import AppSignature from '../organisms/AppSignature';
 import AppCtaSection from '../molecules/AppCtaSection';
 import AppHero from '../molecules/AppHero';
 import AppFooter from '../atomics/AppFooter';
+import { Analytics } from "@vercel/analytics/react"
 
 const AppShell = ({ title, keyword, description, hero, cta, children }) => (
   <>
