@@ -37,13 +37,13 @@ This portfolio can be easily deployed using Vercel. Simply connect your GitHub r
 1. **Clone the repository**:
 
 ```bash
-git clone https://github.com/zk779/NextJS_Portfolio.git
+git clone https://github.com/official-umair-amjad/Portfolio
 ```
 
 2. **Install dependencies**:
 
 ```bash
-cd Portfolio-Next-JS-Tailwindcss
+cd Portfolio
 npm install
 ```
 
