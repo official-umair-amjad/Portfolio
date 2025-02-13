@@ -1,15 +1,13 @@
-import { useEffect } from 'react';
 import { Analytics } from '@vercel/analytics/react';
 import '../styles/globals.css';
 
 const MyApp = ({ Component, pageProps }) => {
-  useEffect(() => {
-    if (process.env.NODE_ENV === 'production') {
-      analytics();
-    }
-  }, []);
-
-  return <Component {...pageProps} />;
+  return (
+    <>
+      <Component {...pageProps} />
+      <Analytics />
+    </>
+  );
 };
 
 export default MyApp;
