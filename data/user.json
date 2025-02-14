@@ -133,7 +133,7 @@
     "desctiption": "Some of the projects that I've worked on......",
     "contents": [
       {
-        "id": 2,
+        "id": 1,
         "top": false,
         "width": "280",
         "image": "/projects/ModelPlatform1.png",
@@ -148,15 +148,26 @@
         "url": ""
       },
       {
-        "id": 1,
+        "id": 2,
         "top": true,
         "width": "150",
         "image": "/projects/Spis.png",
         "image2": "/projects/Spis.png",
         "name": "SPIS",
-        "description": "CASEDRIP is an eCommerce website that specializes in selling sleek, high-quality mobile covers. The website showcases a wide variety of mobile case designs, with an easy-to-navigate layout and seamless shopping experience. Built on Shopify, the store features an elegant design, secure payment options, and smooth checkout process to enhance the customer experience. CASEDRIP offers its customers a modern and stylish selection of mobile accessories, making it easy for them to find the perfect case for their device.",
-        "stack": "Full Stack (MERN)",
+        "description": "SPIS is a revolutionary mobile application designed to transform the way users buy and sell pre-owned smartphones. It is similar to (OLX or Ebay) type platform, but just for smartphones. In this fast-paced digital era, where smartphones have become an essential part of our lives, making informed decisions while purchasing or selling a device is crucial. Our app aims to bridge the gap between buyers and sellers by providing a secure and reliable platform with comprehensive inspection services.",
+        "stack": "Full Stack (MERN), React Native, Expo ",
         "category": "University Project",
+        "url": "https://www.youtube.com/watch?v=-qHiL5Rlm9I&list=PLcSQK0eT8c2hv0Yq8wfrrvf-dEvFRSODr"
+      },
+      {
+        "id": 2,
+        "top": true,
+        "width": "250",
+        "image": "/projects/AnalysisTool.png",
+        "name": "Data Visualization & Analysis Tool",
+        "description": "Data Visualization & Analysis Tool is a powerful Python-based application designed to simplify data processing and enhance decision-making. Built using the Pandas library, it allows users to import, clean, and analyze data from corporate Excel sheets. The tool converts raw data into clear, insightful graphs and tables, making complex information easier to understand. With an intuitive interface and automated processing, it helps management quickly identify trends, patterns, and key insights for better business decisions. Ideal for organizations handling large datasets, this tool streamlines data analysis, improving efficiency and accuracy in reporting.",
+        "stack": "React JS, Python, Django, Pandas Library ",
+        "category": "Client's Project",
         "url": ""
       },
       {
@@ -171,8 +182,22 @@
         "category": "Client's Project",
         "url": "https://store.ons.sa"
       },
+
       {
-        "id": 3,
+        "id": 2,
+        "top": true,
+        "width": "280",
+        "image": "/projects/cc1.png",
+        "image2": "/projects/cc2.png",
+        "name": "Outfit Managet and Recomendation",
+        "description": "Outfit Manager and Recommendation is a MERN stack web application designed for individuals who want to efficiently manage their wardrobe and simplify outfit selection. Users can add, categorize, and organize their clothing items while receiving personalized recommendations. By selecting the season, occasion, and clothing type, they can generate outfit ideas that match their preferences. This platform is perfect for those who struggle with daily outfit choices or want to maximize their wardrobe’s potential. With a user-friendly interface, secure authentication, and a responsive design, it provides a seamless experience for effortless outfit planning and management",
+        "stack": "Full Stack (MERN), Tailwind CSS",
+        "category": "Client's Project",
+        "url": ""
+      },
+      
+      {
+        "id": 5,
         "top": true,
         "width": "270",
         "image": "/projects/Marham.png",
@@ -182,8 +207,9 @@
         "category": "Client's Project",
         "url": ""
       },
+
       {
-        "id": 2,
+        "id": 6,
         "top": false,
         "width": "280",
         "image": "/projects/MS_Traders.png",
@@ -195,7 +221,7 @@
         "url": ""
       },
       {
-        "id": 2,
+        "id": 7,
         "top": false,
         "width": "280",
         "image": "/projects/Expense.png",
