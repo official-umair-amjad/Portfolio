@@ -141,9 +141,9 @@
         "image3": "/projects/ModelPlatform3.png",
         "image4": "/projects/ModelPlatform4.png",
         "image5": "/projects/ModelPlatform5.png",
-        "name": "Expense/Budget Tracker",
-        "description": "The Expense/Budget Tracker is a web-based application designed to help users manage their expenses and budgets efficiently. Users can log in, create expense categories, set budgets for each category, and record their expenses. The system provides a detailed dashboard that displays essential information, including the available budget for each category and an overall summary of expenses and budgets.",
-        "stack": "React JS, CSS, Google API",
+        "name": "Talent Management & Freelance Platform",
+        "description": "A one-stop solution for agencies managing creative talent like models and influencers. This platform streamlines recruitment, organization, classification, and portfolio building. It enables agencies to post projects and assign tasks to all or selected workers, while a dedicated chat system ensures efficient one-to-many communication between agents and workers. Integrated payment tracking and a built-in to-do list make it a complete, all-in-one solution for talent and project management.",
+        "stack": "Full Stack (MERN), Tailwind CSS",
         "category": "Personal Project",
         "url": ""
       },
@@ -178,13 +178,13 @@
         "image2": "/projects/Ons2.png",
         "name": "ONS Grocery Store",
         "description": "ONS Grocery Store is an Wordpress WooCommerce store offering a online grocery ordering. The website features are modern and user-friendly design, allowing customers to easily browse through categories, find products offered by store, and complete cart purchases with easy google map location selector for delivery with a custom admin panel for admins that also allow to set limited access for store workers.The store's seamless online shopping experience ensures customers enjoy smooth navigation, secure payments, and fast delivery, making it the go-to destination for thier groceries.",
-        "stack": "Wordpress",
+        "stack": "Wordpress, Elementor, Plugins, Custom Code",
         "category": "Client's Project",
         "url": "https://store.ons.sa"
       },
 
       {
-        "id": 2,
+        "id": 4,
         "top": true,
         "width": "280",
         "image": "/projects/cc1.png",
@@ -221,7 +221,7 @@
         "url": ""
       },
       {
-        "id": 4,
+        "id": 7,
         "top": false,
         "width": "280",
         "image": "/projects/Expense.png",
